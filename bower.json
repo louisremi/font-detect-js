@@ -1,0 +1,22 @@
+{
+  "name": "font-detect-js",
+  "version": "0.1.0",
+  "homepage": "https://github.com/louisremi/font-detect-js",
+  "authors": [
+    "sturob"
+  ],
+  "description": "Font detection using Javascript and Flash",
+  "main": "javascripts/font-detect.js",
+  "keywords": [
+    "font",
+    "flash"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
